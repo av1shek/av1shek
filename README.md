@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Yo ✌️, I'm Avishek</h1>
-<h3 align="center">A budding developer keen to learn</h3>
+<h1 align="center">Hey there 👋, I'm Avishek</h1>
+<h3 align="center">A full-stack web-developer open to new-Tech</h3>
 <div class="align-items-center">
 <a href="https://www.linkedin.com/in/abhishek-pratap-singh-9aa8a1191/">
   <img align="left" alt="Abhishek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -15,8 +15,8 @@
 </div>
 <br><br>
 
-<h2 align="center">My work is mostly realted to Web-Development</h2>
-<h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2>
+<h2 align="center">I am currently working as a Developer at WSDC, NITW</h2>
+<h2 align="center"> 👨‍💻  Don't forget to view my work through my repositories  👨‍💻</h2>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -31,11 +31,11 @@
 
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
-- 🌱 I’m currently an undergrad at NIT , Warangal .<br>
-- 📖 Learning new stuff is my hobby .<br>
-- 👨‍💻 Fusing Coding to my DNA .<br>
-- 💻 Learning js frameworks .<br>
-- 🍔 Food is my life.<br>
-- 💬 Ask me anythin .Happy to help .<br>
+- 🌱 I’m currently 2nd year student at NIT , Warangal .<br>
+- 📖 Coding is my hobby .<br>
+- 🤩 Love competitive programming on codechef and codeforces .
+- 💻 My work also includes web applications based on django as backend framework.<br>
+- 💬 Ask me anythin . Always ready to help u .<br>
 - 📫 Connect with me through linkedin , insta or via mail.<br>
+<b>EAT , SLEEP , CODE , REPEAT</b>
 
