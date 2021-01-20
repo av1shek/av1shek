@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Abhishek Pratap Singh",
+    "image": "profilephoto.jpg",
+    "bio": "My name is Abhishek Pratap Singh, I'm a Web Developer and Competitive programmer. Currently I'm studying at National Institute of Technoloy, Warangal.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "navodayanabhishek@gmail.com",
+    "phone": "+91 7479734685",
+    "address": {
+      "city": "Rajgir",
+      "state": "Bihar",
+      "zip": "803116"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1hqfRgp-rNJoGl_lT_2jfojPbrnrOAXG7/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100014567049324",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhishek-pratap-singh-9aa8a1191/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/a_v_i_s_h_e_k_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/av1shek",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+ 
+
+    "projects": [
+      {
+        "title": "Hand Written Digit Identifier",
+        "image": "digitrecog.png",
+        "demo": true,
+        "demoLink":"https://mlapps.herokuapp.com/digit",
+        "sourceCode":"https://github.com/av1shek/Hand-Written-Digit-Identifier",
+        "badges":["Python", "Django", "Machine Learning"],
+        "desc":"A Django web app to identify hand written Digit using machine learning model and trained over MNIST handwritten digit training dataset and has an accuraccy of 97.6% for ANN model and 98.3% for CNN model on MNIST test data set. \n ANN model is implemented from scratch while CNN model is implemented using Pytorch."
+      },
+      {
+        "title": "E-Commerce",
+        "image": "ecommercesite.png",
+        "demo": true,
+        "demoLink":"http://av1shek.pythonanywhere.com/shop",
+        "sourceCode":"https://github.com/av1shek/E-Commerce-Website",
+        "badges":["Django", "Javascript", "Bootstrap"],
+        "desc":"E-Commerce Website for Winter Clothes developed using Django, CSS, Bootstrap, and JavaScript. It has almost all the essential features required for an e-commerce website. This project contains the user and admin side. Admin can manage and update products available and update the delivery status. From user side, he/she can view products, add to carts , purchase and as well as can track it easily. It is also integrated through payment gateway where users can easily pay for their product using paytm or UPI."
+      },
+      {
+        "title": "Chatroom",
+        "image": "chatroom.png",
+        "demo": true,
+        "demoLink":"http://av1shek.epizy.com/chatroom/?i=1",
+        "sourceCode":"https://github.com/av1shek/Chatroom",
+        "badges":["PHP", "Javascript", "Jquery"],
+        "desc":"After learning basics of PHP and inspired from many chatting sites I thought to create this. It is simple chat app where one can book a chatroom with a unique name and invite all the freinds to chat by sharing the link of chatroom (webpage) without showing his identity."
+      },
+      {
+        "title": "Blog Website",
+        "image": "blogsite.png",
+        "demo": true,
+        "demoLink":"https://avi-blog.herokuapp.com/",
+        "sourceCode":"https://github.com/av1shek/Blog-website",
+        "badges":["Flask", "Bootstrap"],
+        "desc":"The main purpose of this blog website is not to connect with the audience, I created it only to hone my development skills in flask framework. \n It is a dynamic blog site with where admin can modifiy previous post and add new posts using admin panel."
+      },
+      {
+        "title": "Text to Handwritten",
+        "image": "texttowritten.png",
+        "demo": true,
+        "demoLink":"http://av1shek2.pythonanywhere.com/home/",
+        "sourceCode":"https://github.com/av1shek/Text-to-Handwritten",
+        "badges":["Python", "Django"],
+        "desc":"Writting lots of assignments is very tedious and boring thing. This python model is solution for this here we can paste some text from any source and it will generate same text in hand written font."
+      },
+      {
+        "title": "Mess Extra Items Management System",
+        "image": "messExtrasManagementSystem.png",
+        "demo": false,
+        "demoLink":"https://github.com/av1shek",
+        "sourceCode":"https://github.com/av1shek/Mess-Extra-Items-Management-System",
+        "badges":["Python", "Django"],
+        "desc":"Managing offline records and physical paper coupons for extra items in our college mess is not very comfortable. And this project deals with this it is a common portal where students can place their orders online and staffs can also see the different order received.\nIt was a team project made by my team during a college hackathon."
+      },
+      {
+        "title": "Desktop Voice Assistant",
+        "image": "jarvis.png",
+        "demo": false,
+        "demoLink":"https://github.com/av1shek",
+        "sourceCode":"https://github.com/av1shek/Jarvis-Desktop-Assistant",
+        "badges":["Python"],
+        "desc":"Siri like desktop assistant written in Python which uses google's speech-to-text library to process voice input and performs required action after taking decision by multiple conditional statements."
+      },
+      {
+        "title": "Flappy Bird Game",
+        "image": "flappyBird.png",
+        "demo": false,
+        "demoLink":"https://github.com/av1shek",
+        "sourceCode":"https://github.com/av1shek/Flappy-Bird-Game",
+        "badges":["Python"],
+        "desc":"Flappy bird desktop executable game with Python GUI using kinter. I made this game followed by tutorial."
+      }
+    ]
+}

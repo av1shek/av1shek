@@ -1,0 +1,102 @@
+canvas {
+    background:black;
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body{
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fa
+{
+    color:white;
+}
+#about
+{
+    all:unset;
+}
+.aboutBackground
+{
+    background-color: #ebeeee;
+    border-radius: 31px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.aboutContent
+{
+    margin: 5%;
+    color: #000000;
+}
+.aboutContent .fa
+{
+    color:black;
+}
+.profile-pic
+{
+    border-radius: 100px;
+    width: 150px;
+    height:150px;
+}
+
+
+.contactBackground
+{
+    background-color: #ebeeee;
+    
+}
+.contactContent
+{
+    margin: 5%;
+    color: #000000;
+}
+
+.projectsBackground
+{
+    background-color: #ebeeee;
+    border-radius: 31px;
+    transition: transform .5s;
+}
+.projectsBackground:hover
+{
+    transform: scale(1.02);
+}
+.projectsContent
+{
+    margin: 5%;
+    color: #000000;
+}
+.preContent
+{
+    white-space: pre-wrap;
+    word-break: keep-all;
+    font-family: cursive;
+}
+ul
+{
+    list-style: none;
+}
+.social-links li
+{
+    
+    display: inline-block;
+}
+
+.footerContent
+{
+    color:white;
+}
+.projectImages
+{
+    width:inherit;
+    transition: transform .5s;
+}
+.projectImages:hover
+{
+    transform: scale(1.01);
+}
