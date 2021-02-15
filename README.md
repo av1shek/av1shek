@@ -27,8 +27,11 @@
 <a href="https://github.com/av1shek/av1shek">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=av1shek&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br>
-
+<br/>
+**Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=av1shek">
+</p>
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
 - 🌱 I’m currently 2nd year student at NIT , Warangal .<br>
