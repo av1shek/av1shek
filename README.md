@@ -13,8 +13,9 @@
   <img align="left" alt="Avishek's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </div>
-<br><br>
 
+<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=av1shek&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi" /></p>
 <h2 align="center">I am currently working as a Developer at WSDC, NITW</h2>
 <h2 align="center"> 👨‍💻  Don't forget to view my work through my repositories  👨‍💻</h2>
 
