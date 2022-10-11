@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hey there 👋, I'm Avishek</h1>
-<h3 align="center">A full-stack web-developer open to new-Tech</h3>
+<h3 align="center">A Full-Stack Developer, open to new-Tech</h3>
 <div class="align-items-center">
-<a href="https://www.linkedin.com/in/abhishek-pratap-singh-9aa8a1191/">
+<a href="https://www.linkedin.com/in/av1shek/">
   <img align="left" alt="Abhishek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/a_v_i_s_h_e_k_/">
-  <img align="left" alt="Amit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Avishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:navodayanabhishek@gmail.com">
   <img align="left" alt="Avishek's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -16,7 +16,7 @@
 
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=av1shek&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi" /></p>
-<h2 align="center">I am currently working as a Developer at WSDC, NITW</h2>
+<h2 align="center">I am Lead Developer at WSDC, NITW</h2>
 <h2 align="center"> 👨‍💻  Don't forget to view my work through my repositories  👨‍💻</h2>
 
 ## &#x1f4c8; GitHub Stats
@@ -36,11 +36,10 @@
 </p>
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
-- 🌱 I’m currently 2nd year student at NIT , Warangal .<br>
-- 📖 Coding is my hobby .<br>
-- 🤩 Love competitive programming on codechef and codeforces .
-- 💻 My work also includes web applications based on django as backend framework.<br>
-- 💬 Ask me anythin . Always ready to help u .<br>
+- 🌱 Final year UG student at NIT, Warangal .<br>
+- 🤩 Loves competitive programming and development.
+- ⚙️ Worked as intern in Cult.fit(Cure.fit) and ByteBlock. <br>
+- 💻 Experience in web and mobile app devlopment.<br>
+- 📖 Exploring blockchain .<br>
+- 💬 Open for any discussion in my area's of interest.<br>
 - 📫 Connect with me through linkedin , insta or via mail.<br>
-<b>EAT , SLEEP , CODE , REPEAT</b>
-
