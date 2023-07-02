@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Avishek</h1>
 <h3 align="center">A Full-Stack Developer, open to new-Tech</h3>
-<div class="align-items-center">
+<div style="text-align: center;">
 <a href="https://www.linkedin.com/in/av1shek/">
   <img align="left" alt="Abhishek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,8 +15,8 @@
 </div>
 
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=av1shek&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi" /></p>
-<h2 align="center">I am Lead Developer at WSDC, NITW</h2>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=av1shek&label=Profile%20views&color=0e75b6&style=flat" alt="Abhi" /></p> -->
+<!-- <h2 align="center">I am Lead Developer at WSDC, NITW</h2> -->
 <h2 align="center"> 👨‍💻  Don't forget to view my work through my repositories  👨‍💻</h2>
 
 ## &#x1f4c8; GitHub Stats
@@ -36,10 +36,10 @@
 </p>
 
 <img align="right" height="200vw" alt="GIF" src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" ><br>
-- 🌱 Final year UG student at NIT, Warangal .<br>
+-  ⚙️ SDE-1 at Cashfree payments.<br>
+- 🌱 Completed B.Tech in Computer Science from Warangal.<br>
 - 🤩 Loves competitive programming and development.
-- ⚙️ Worked as intern in Cult.fit(Cure.fit) and ByteBlock. <br>
 - 💻 Experience in web and mobile app devlopment.<br>
-- 📖 Exploring blockchain .<br>
+- 📖 Exploring blockchain.<br>
 - 💬 Open for any discussion in my area's of interest.<br>
 - 📫 Connect with me through linkedin , insta or via mail.<br>
